@@ -1,5 +1,5 @@
 #==============================================================================
-# SCRIPT DE VERIFICATION DU PACKAGE - trialdesign
+# SCRIPT DE VERIFICATION DU PACKAGE - PowerRanger
 #
 # A executer sur la branche de developpement, AVANT fusion vers main/master.
 #
@@ -14,7 +14,7 @@
 # AVANT de lancer ce script).
 #==============================================================================
 
-setwd("C:/Users/georgev/Documents/R Etudes/Randomisations/TrialDesign")  # racine du package
+setwd("C:/Users/georgev/Documents/R Etudes/PowerRanger")  # racine du package
 
 # --- Verification du repertoire ------------------------------------------
 

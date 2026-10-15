@@ -1,5 +1,5 @@
 #==============================================================================
-# SCRIPT DE TEST - Fonctions de randomisation (package TrialDesign)
+# SCRIPT DE TEST - Fonctions de randomisation (package PowerRanger)
 #
 # Couvre : init_essai(), rand(), corresp()
 # Sur le meme principe que test_ssdesignr.R (fonctions de calcul de NSN).

@@ -19,7 +19,7 @@
     titre_doc <- "LISTE DE CORRESPONDANCE N\\textsuperscript{o} DE BO\\^{I}TE / TRAITEMENT"
     code_doc <- "EN-USM-418"
   }
-  logo <- system.file("LogoCHUBdx.jpg", package = "TrialDesign")
+  logo <- system.file("LogoCHUBdx.jpg", package = "PowerRanger")
   paste0(
     "\\begin{titlepage}
 \\thispagestyle{empty}

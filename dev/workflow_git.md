@@ -1,4 +1,4 @@
-# Workflow de verification et fusion - trialdesign
+# Workflow de verification et fusion - PowerRanger
 
 Procedure a suivre sur la branche de developpement, avant de fusionner
 vers la branche principale (`main`).

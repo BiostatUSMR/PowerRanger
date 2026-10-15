@@ -1,5 +1,5 @@
 #==============================================================================
-# SCRIPT DE TEST - Fonctions de calcul NSN (Package TrialDesign)
+# SCRIPT DE TEST - Fonctions de calcul NSN (Package PowerRanger)
 #
 # Objectif :
 #   - Vérifier que chaque fonction de calcul tourne sans erreur.

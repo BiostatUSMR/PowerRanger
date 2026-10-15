@@ -1,9 +1,9 @@
-# TrialDesign
+# PowerRanger
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-TrialDesign provides tools for the design of clinical trials, including
+PowerRanger provides tools for the design of clinical trials, including
 randomization and treatment allocation list generation and sample size
 calculation.
 
@@ -17,12 +17,12 @@ Fleming's methods.
 
 ## Installation
 
-You can install the development version of trialdesign from [GitHub](https://github.com/) with:
+You can install the development version of PowerRanger from [GitHub](https://github.com/) with:
 
 ``` r
 install.packages("pak")
-pak::pak("BiostatUSMR/TrialDesign")
-library(TrialDesign)
+pak::pak("BiostatUSMR/PowerRanger")
+library(PowerRanger)
 ```
 
 ## Additional requirements

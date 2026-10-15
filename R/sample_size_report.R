@@ -89,7 +89,7 @@ ss_report <- function(
   type <- attr(result, "ssdesignr_type")
 
   if (is.null(type)) {
-    stop("'result' ne provient pas d'une fonction de calcul de taille d'\u00E9chantillon de TrialDesign.")
+    stop("'result' ne provient pas d'une fonction de calcul de taille d'\u00E9chantillon de PowerRanger.")
   }
 
   is_cluster <- isTRUE(
