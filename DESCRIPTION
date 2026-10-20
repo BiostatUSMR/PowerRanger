@@ -3,11 +3,11 @@ Type: Package
 Title: Randomization and Sample Size Calculation for Clinical Trials
 Version: 0.1.0
 Authors@R: c(
-    person("USMR", "CHU de Bordeaux", role = c("aut", "cre"), email = "biostatisticien.usmr@chu-bordeaux.fr"),
-    person("Aurore",  "Georget",role = "aut", email = "biostatisticien.usmr@chu-bordeaux.fr"),
-    person("Marion",  "Kret",   role = "aut", email = "biostatisticien.usmr@chu-bordeaux.fr"),
-    person("Thomas",  "Ferté",  role = "aut", email = "biostatisticien.usmr@chu-bordeaux.fr"),
-    person("Typhania", "Akoto",  role = "aut", email = "biostatisticien.usmr@chu-bordeaux.fr"))
+    person("USMR", "CHU de Bordeaux", role = c("aut", "cre"), email = "biostatisticiens.usmr@chu-bordeaux.fr"),
+    person("Aurore",  "Georget",role = "aut", email = "biostatisticiens.usmr@chu-bordeaux.fr"),
+    person("Marion",  "Kret",   role = "aut", email = "biostatisticiens.usmr@chu-bordeaux.fr"),
+    person("Thomas",  "Ferté",  role = "aut", email = "biostatisticiens.usmr@chu-bordeaux.fr"),
+    person("Typhania", "Akoto",  role = "aut", email = "biostatisticiens.usmr@chu-bordeaux.fr"))
 Description: Provides tools for the design of clinical trials, including 
     randomization and treatment allocation list generation 
     and sample size calculation.
